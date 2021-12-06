@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bekef
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c# and python going for a degree in software engineering
+- 💞️ I’m looking to collaborate on /
