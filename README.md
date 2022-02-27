@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Python and C# 
+- 🌱 I’m currently learning Python and C#, C++ 
 - ⚡ Im working with VSCode
 - ✔️ I have worked with Sqlite, Tkinter, MongoDB, Discord.py and Py-cord
 
