@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and C#, C++ 
 - ⚡ Im working with VSCode
 - ✔️ I have worked with Sqlite, Tkinter, MongoDB, Discord.py and Py-cord
-- 📘 Im going to be studing as a IT Specialist
+- 📘 Soon to be IT Specialist
 
 <br />
 
