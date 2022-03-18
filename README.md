@@ -1,4 +1,4 @@
-### Hi there, I'm Finn
+# Hi there, I'm Finn
 
 ## I'm a Student and Developer!!
 
