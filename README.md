@@ -19,10 +19,9 @@
 <img align="left" alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/66865117/159128846-5e7d0c4e-836b-42f8-8078-e84855569aae.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/66865117/148420255-b44003ac-22d9-4bdf-8e1e-65f2e8c4eb8a.png"/>
 <img align="left" alt="Csharp" width="38px" src="https://user-images.githubusercontent.com/66865117/159082925-41f9b846-b6e3-4df4-9734-cd4de7a7d416.png"/>
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/66865117/159083075-d37ec3c5-758f-4551-aa20-a953a37fa412.png"/>
+<img align="center" alt="C++" width="26px" src="https://user-images.githubusercontent.com/66865117/159083075-d37ec3c5-758f-4551-aa20-a953a37fa412.png"/>
 
-## Stats
-
+## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=bekef&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekef&theme=dark" width="48%" >
