@@ -10,7 +10,6 @@
 
 <br />
 
-## Official Discord Server
 [Official Discord](https://discord.com/invite/GUNzQ5tVbj)
 
 ## Languages and Tools:
