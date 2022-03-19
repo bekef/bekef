@@ -11,7 +11,7 @@
 <br />
 
 ## Official Discord Server
-![Discord](https://discord.com/api/guilds/954060045056901200/widget.png?style=banner2)
+[Official Discord](https://discord.com/invite/GUNzQ5tVbj)
 
 ## Languages and Tools:
 
