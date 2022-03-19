@@ -10,7 +10,7 @@
 
 <br />
 
-## Official Discord Server for my Discord Bot
+## Official Discord Server
 ![Discord](https://discord.com/api/guilds/954060045056901200/widget.png?style=banner2)
 
 ## Languages and Tools:
