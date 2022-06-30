@@ -1,11 +1,11 @@
 # Hi there, I'm Finn                   <img src="https://komarev.com/ghpvc/?username=bekef&color=brightgreen" alt="watching_count" align="right" />
 
-## I'm a Student and Developer!!
+## I'm a Developer!!
 
 - 🌱 I’m currently learning Python and C#, C++ 
 - ⚡ Im working with VSCode
 - ✔️ I have worked with Sqlite, Tkinter, MongoDB, Discord.py and Py-cord
-- 📘 Im currently a Student
+- 📘 I just finished High School
 - 🔜 Im studying to be a IT Specialist
 
 <br />
