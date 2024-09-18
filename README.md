@@ -5,12 +5,8 @@
 - 🌱 I’m currently learning Python, C# and C++ 
 - ⚡ Im working with VSCode and Unity
 - ✔️ I have worked with SQLite, Tkinter, MongoDB, Discord.py and Py-cord
-- 📘 I just finished High School
-- 🔜 Im studying to be a IT Specialist
 
 <br />
-
-[Official Discord](https://discord.com/invite/GUNzQ5tVbj)
 
 ## Languages:
 
